@@ -17,6 +17,7 @@
   "devDependencies": {
     "@eslint/js": "^9.11.0",
     "@types/eslint__js": "^8.42.3",
+    "@types/express": "^5.0.0",
     "@types/jest": "^29.5.13",
     "@types/module-alias": "^2.0.4",
     "@types/node": "^22.5.5",
@@ -30,6 +31,9 @@
     "typescript-eslint": "^8.6.0"
   },
   "dependencies": {
+    "@overnightjs/core": "^1.7.6",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
     "module-alias": "^2.2.3",
     "typescript": "^5.5.4"
   }
